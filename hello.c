@@ -11,7 +11,7 @@ int main()
     return 1;
   }
   // Allocating values correctly
-  for(int i = 0; i < 2; i++)
+   for(int i = 0; i < 2; i++)
   {
     ptr[i] = i + 1;
   }
