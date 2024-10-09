@@ -12,6 +12,6 @@
 Here is a command `mkdir`
 ```C
 int main(){
-printf("hello! world");
-}
+          printf("hello! world");
+          }
 ```
